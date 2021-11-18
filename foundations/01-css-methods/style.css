@@ -1,7 +1,8 @@
 div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     background-color: red;
     font-size: 32px;
-    align-content: center;
-    font-weight: bold;
+    text-align: center;
+    font-weight: 900
 }
